@@ -1,7 +1,17 @@
 # Variational-Autoencoder-Numpy
 Variational Autoencoder on MNIST in Numpy
 
-生成モデルのひとつVariational Autoencoder(VAE)をディープラーニングのフレームワークを使わずにNumpyを使って実装しました。
+Variational Autoencoder(VAE)は生成モデルのひとつです。
+
+今回は、Variational Autoencoder(VAE)をディープラーニングのフレームワークを使わずにNumpyを使って実装しました。
+<br>
+Google Colabで実行できるノートブックですので、すぐにお試し動作できます。
+
+
+<br>
+MNIST手書き文字の生成例（上段がオリジナル画像、下段が生成画像）
+
+![Gen_Images](https://github.com/pometa0507/Variational-Autoencoder-Numpy/blob/master/plots/Gen_Images.png)
 
 
 
@@ -13,8 +23,6 @@ MNISTの手書き数字を生成するシンプルなモデルを構築してい
 <br>
 ![VAE_Model](https://github.com/pometa0507/Variational-Autoencoder-Numpy/blob/master/plots/VAE_Model.png)
 
-<br>
-![Gen_Images](https://github.com/pometa0507/Variational-Autoencoder-Numpy/blob/master/plots/Gen_Images.png)
 
 <br>
 
