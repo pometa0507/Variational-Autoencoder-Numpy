@@ -1,9 +1,35 @@
 # Variational-Autoencoder-Numpy
-Variational Autoencoder on MNIST in Numpy
+Variational Autoencoder(VAE) on MNIST in Numpy
+
+# Lisense
+This software is released under the MIT License, see license.txt.
+
+# Introduction
+
+The Variational Autoencoder (VAE) is one of the generative models.
+
+This VAE is implemented using Numpy without using a deep learning framework.
+
+# Python Library
+To run the code, the following software is required.
+
+Python 3.x
+NumPy
+Matplotlib
+(cupy)
+Cupy is optional. With Cupy, matrix operations can be done efficiently using the GPU.
+
+# Usage
+
+This notebook that can run in Google Colab, so it's ready to go.
+
+
+# VAEの概要
+From here, writing in Japanese.
 
 Variational Autoencoder(VAE)は生成モデルのひとつです。
 
-今回は、Variational Autoencoder(VAE)をディープラーニングのフレームワークを使わずにNumpyを使って実装しました。
+Variational Autoencoder(VAE)をディープラーニングのフレームワークを使わずにNumpyを使って実装しました。
 <br>
 Google Colabで実行できるノートブックですので、すぐにお試し動作できます。
 
