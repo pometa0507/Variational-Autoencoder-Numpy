@@ -13,15 +13,16 @@ This VAE is implemented using Numpy without using a deep learning framework.
 # Python Library
 To run the code, the following software is required.
 
-Python 3.x
-NumPy
-Matplotlib
-(cupy)
+* Python 3.x
+* NumPy
+* Matplotlib
+* (cupy)
+
 Cupy is optional. With Cupy, matrix operations can be done efficiently using the GPU.
 
 # Usage
 
-This notebook that can run in Google Colab, so it's ready to go.
+VAE_Numpy.ipynb can run in Google Colab, so it's ready to go.
 
 
 # VAEの概要
